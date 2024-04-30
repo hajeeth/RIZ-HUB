@@ -19,6 +19,8 @@ Mobile-Responsive: Access RIZ-HUB on any device.
 Progressive Web App (PWA) Supported.
 
 
+
+
 List of Things We have to do:
 
 [ ] Work on Manga pages.
