@@ -1,6 +1,8 @@
 RIZ-HUB: Anime Streaming Website
 !RIZ-HUB Logo
 
+Collaborator : Aathifa Samsun A
+
 RIZ-HUB is an anime streaming website powered by the Streamsora API. Built with Next.js and Tailwind, it boasts a sleek and modern design. Here are some key features:
 
 Features
